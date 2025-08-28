@@ -1,4 +1,4 @@
-# 👋 Hello World! cheatofrom is Coding~
+# 👋 Hello World! NeatGuy is Coding~
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=635&lines=Passionate+Technology+Leader+and+Developer;Always+Learning+and+Challenging" alt="Typing SVG" />
@@ -213,6 +213,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeatGuyCoding&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeatGuyCoding&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
